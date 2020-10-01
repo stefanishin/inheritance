@@ -1,1 +1,1 @@
-# inheritance
+# inheritance & polymorphism (наследование и полиморфизм)
