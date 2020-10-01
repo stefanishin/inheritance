@@ -1,0 +1,7 @@
+D:\C#\inheritance\ConsoleAppGeomFigure\ConsoleAppGeomFigure\bin\Debug\ConsoleAppGeomFigure.exe.config
+D:\C#\inheritance\ConsoleAppGeomFigure\ConsoleAppGeomFigure\bin\Debug\ConsoleAppGeomFigure.exe
+D:\C#\inheritance\ConsoleAppGeomFigure\ConsoleAppGeomFigure\bin\Debug\ConsoleAppGeomFigure.pdb
+D:\C#\inheritance\ConsoleAppGeomFigure\ConsoleAppGeomFigure\obj\Debug\ConsoleAppGeomFigure.csprojAssemblyReference.cache
+D:\C#\inheritance\ConsoleAppGeomFigure\ConsoleAppGeomFigure\obj\Debug\ConsoleAppGeomFigure.csproj.CoreCompileInputs.cache
+D:\C#\inheritance\ConsoleAppGeomFigure\ConsoleAppGeomFigure\obj\Debug\ConsoleAppGeomFigure.exe
+D:\C#\inheritance\ConsoleAppGeomFigure\ConsoleAppGeomFigure\obj\Debug\ConsoleAppGeomFigure.pdb
